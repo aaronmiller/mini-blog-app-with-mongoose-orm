@@ -4,7 +4,7 @@
   "description": "A small blogging app made with MongoDB, Express, and NodeJS.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "test": "mocha"
   },
   "dependencies": {
